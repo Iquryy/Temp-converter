@@ -13,7 +13,7 @@ Navigate to the project directory:
 
 Running the Application:
 
-        Run the application: start start.bat
+      Run the application: start start.bat
 
 Directly:
 You can also double-click the start.bat file from the project folder to run the application without using the command prompt.
