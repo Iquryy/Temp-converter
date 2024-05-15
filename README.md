@@ -11,9 +11,9 @@ Navigate to the project directory:
 
       cd Temp-converter
 
-Running the Application:
+Run the application:
 
-      Run the application: start start.bat
+      start start.bat
 
 Directly:
 You can also double-click the start.bat file from the project folder to run the application without using the command prompt.
